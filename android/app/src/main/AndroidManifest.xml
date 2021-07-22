@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_agora_trial">
+    package="com.devansh.flutter_agora">
    <application
-        android:label="flutter_agora_trial"
+        android:label="Flutter Agora"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
